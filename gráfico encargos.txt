@@ -1,0 +1,10 @@
+Encargos:
+20  vale algo
+20  vale algo
+20  vale algo
+1 funcionario tem 1 filho e outra tem 3 (seguro familia)
+Bruto 
+para Empresa:
+quanto gasta com funcionario Por mês
+quanto gasta com funcionario Por ano 
+fazer um grafiuco depois
